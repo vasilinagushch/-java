@@ -1,3 +1,4 @@
+//Puzzle.java
 public class Puzzle {
     private String question;
     private Option[] options;
